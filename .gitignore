@@ -1,0 +1,14 @@
+
+__pycache__/
+*.py[cod]
+
+
+venv/
+env/
+*.egg-info/
+*.egg
+
+
+/.streamlit/
+
+.env
